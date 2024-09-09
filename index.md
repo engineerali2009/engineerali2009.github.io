@@ -1,8 +1,3 @@
----
-layout: default
-title: "Welcome to My GitHub Pages Site"
----
-
 ## My GitHub Repositories
 - [engineerali2009](https://github.com/engineerali2009)
 - [A-B-Testing-and-Beyond](https://github.com/engineerali2009/A-B-Testing-and-Beyond)
